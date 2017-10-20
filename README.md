@@ -5,6 +5,5 @@
 # this repo contained .PHP and .SQL files but are privately reserved and owned. 
 # SQL-Data-Search
 check it out
-       |
-       V
+  ---> 
 http://datasearch.johnbernad.com/builtwithshopify.php
